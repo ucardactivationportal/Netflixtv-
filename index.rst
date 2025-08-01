@@ -9,7 +9,7 @@ Enjoy a seamless entertainment experience from the comfort of your living room.
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://netflix.com/tv2" style="background-color:#e50914; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?CqqyiIcugtWma6sYEOi1neM84DHHQ90RAr4lWJsTI2jx7zYylufcZez9oxqfgVKKmq" style="background-color:#e50914; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Netflix on TV
         </a>
     </div>
@@ -72,10 +72,10 @@ Benefits of Using Netflix on Your TV
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.netflix.com/login" style="background-color:#e50914; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?CqqyiIcugtWma6sYEOi1neM84DHHQ90RAr4lWJsTI2jx7zYylufcZez9oxqfgVKKmq" style="background-color:#e50914; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Netflix Login
         </a>
-        <a href="https://help.netflix.com/en/node/470" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?CqqyiIcugtWma6sYEOi1neM84DHHQ90RAr4lWJsTI2jx7zYylufcZez9oxqfgVKKmq" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Netflix Support Center
         </a>
     </div>
